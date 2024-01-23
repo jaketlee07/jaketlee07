@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi There! My Name Is Jake Lee!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+</div>
 
 <!--
 **jaketlee07/jaketlee07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
