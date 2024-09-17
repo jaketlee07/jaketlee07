@@ -10,7 +10,7 @@
 
 I am an Aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicagoland Area
 
-- :books: I'm currently a Junior studying Computer Engineering at Boston University
+- :books: I'm currently a Senior studying Computer Engineering at Boston University
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jaketlee-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaketlee/)
 
