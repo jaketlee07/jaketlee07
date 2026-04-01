@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-I am an Aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicagoland Area
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicagoland Area
 
 - :books: I'm a Computer Engineering graduate from Boston University
 
